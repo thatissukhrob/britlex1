@@ -38,6 +38,20 @@ img {
 
 /* BUTTON */
 
+.sitenav-button {
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000;
+  border: 1px solid #000;
+  border-radius: 5px;
+  width: 220px;
+  height: 70px;
+  text-align: center;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
 .site-intro-button {
   font-weight: 400;
   font-size: 36px;
@@ -120,6 +134,10 @@ img {
 }
 
 /* SITE-INTRO */
+
+.site-hero {
+  margin-bottom: 50px;
+}
 
 .site-intro {
   display: flex;  
